@@ -1,6 +1,7 @@
 ---
 title: Privacy Statement
 permalink: /privacy/
+variant: markdown
 ---
 **HWA CHONG INSTITUTION DATA PROTECTION POLICY**
 
@@ -113,5 +114,3 @@ EFFECT OF NOTICE AND CHANGES TO NOTICE&nbsp;
 Effective date: 3 June 2020&nbsp;
 
 Last updated: 3 June 2020&nbsp;
-
-
