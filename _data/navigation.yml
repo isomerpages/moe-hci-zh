@@ -1,0 +1,21 @@
+##################################
+#                                #
+# Feel free to edit this file :) #
+#                                #
+##################################
+
+logo: /images/hcilogo.png
+links:
+  - title: ABOUT US
+    collection: about-us
+  - title: THE HC ADVANTAGE
+    collection: the-hc-advantage
+  - title: HIGH SCHOOL
+    collection: high-school
+  - title: COLLEGE
+    collection: college
+  - title: SCHOOL PORTALS
+    collection: school-portals
+  - title: CONTACT US
+    url: /hci-contact-us/
+

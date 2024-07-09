@@ -1,0 +1,17 @@
+collections:
+  about-us:
+    output: true
+    order:
+      - Principal's Message.md
+      - Mission and Vision.md
+      - Board of Directors.md
+      - Board of Governors.md
+      - Organisation Structure.md
+      - Our People.md
+      - History.md
+      - Our Principals.md
+      - Hwa Chong Alumni Association.md
+      - Hwa Chong Junior College Alumni.md
+      - Careers/.keep
+      - Careers/Non Teaching Positions.md
+      - Careers/Teaching Positions.md
