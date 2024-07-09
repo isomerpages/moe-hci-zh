@@ -1,24 +1,24 @@
-title: Title
+title: Hwa Chong Institution
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 favicon: /images/favicon-isomer.ico
 
 # Site colors
 colors:
-  primary-color: '#6031b6'
-  secondary-color: '#4372d6'
+  primary-color: "#6e1919"
+  secondary-color: "#6e1919"
   media-colors:
     - title: media-color-one
-      color: '#49759a'
+      color: "#6e1919"
     - title: media-color-two
-      color: '#744d9f'
+      color: "#6e1919"
     - title: media-color-three
-      color: '#00838f'
+      color: "#6e1919"
     - title: media-color-four
-      color: '#00838f'
+      color: "#6e1919"
     - title: media-color-five
-      color: '#00838f'
+      color: "#6e1919"
 
-description: An Isomer site of the Singapore Government
+description: ""
 
 ##################################################################################################################
 # Everything below this line is Isomer-specific configuration. There should not be a need to edit these settings #
