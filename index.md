@@ -1,13 +1,13 @@
 ---
 layout: homepage
 title: Hwa Chong Institution
-description: An Isomer site of the Singapore
+description: An Isomer site of the Singapore Government
 image: /images/hcilogo.png
 permalink: /
 notification: ""
 sections:
-    - hero:
-      background: /images/homepage_banner_v3.gif
+  - hero:
+      background: /images/Banner_V2024.gif
       variant: image
       key_highlights:
         - title: "Scam Alert: Impersonation Phone Calls"
