@@ -2,7 +2,7 @@ collections:
   about-us:
     output: true
     order:
-      - Principal's Message.md
+      - 校长献词.md
       - Mission and Vision.md
       - Board of Directors.md
       - Board of Governors.md
