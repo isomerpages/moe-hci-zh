@@ -7,7 +7,7 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      background: /images/Banner_V2024.gif
+      background: /images/homepage_banner_v3.gif
       variant: image
       key_highlights:
         - title: "Scam Alert: Impersonation Phone Calls"
