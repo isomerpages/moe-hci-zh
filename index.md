@@ -1,4 +1,3 @@
----
 layout: homepage
 title: Hwa Chong Institution
 description: An Isomer site of the Singapore
@@ -27,6 +26,5 @@ sections:
       title: News & Events
       id: resources
       button: Find Out More
----
 
 
