@@ -30,7 +30,7 @@ variant: markdown
   <tbody>
     <tr>
       <td style="width: 22%; text-align: center;">
-        <strong>Deans</strong><br>Organisational Development &amp; Strategic Programmes<br>Research Studies<br>Special Programmes
+        <strong>Deans</strong><br>Organisational Development &amp; Strategic Programmes<br>Studies &amp; Research<br>Special Programmes
       </td>
     </tr>
   </tbody>
