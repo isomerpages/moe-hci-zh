@@ -55,7 +55,7 @@ variant: markdown
       <td style="width: 22%; margin-right: 15px;">
         <img style="width: 100%;" src="/images/About%20Us/Our%20People/peoplev2_7.png">
         <br>
-        <strong>Dr Chia Hui Peng <br> Dean / Research Studies</strong>
+        <strong>Dr Chia Hui Peng <br> Dean / Studies &amp; Research</strong>
       </td>
     </tr>
   </tbody>
