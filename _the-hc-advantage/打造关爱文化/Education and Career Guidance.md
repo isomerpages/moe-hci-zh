@@ -1,0 +1,17 @@
+---
+title: Education and Career Guidance
+permalink: /the-hc-advantage/a-culture-of-care/edu-n-career-guidance/
+description: ""
+third_nav_title: 打造关爱文化
+---
+##### Education and Career Guidance
+
+Education and Career Guidance (ECG) at Hwa Chong seeks to equip students with the requisite qualities and skills to explore options and opportunities for further education and to make informed decisions to create and pursue fulfilling careers in research, industry and government. The ECG Centre, which is housed at the Holistic Education Centre (Level 3) provides a dedicated hub for students to consult trained higher education and career counsellors as well as to gain information about tertiary education and the career landscape. Higher education programmes include talks by local and overseas universities, university application workshops and briefings, individual or group counselling for programme selection and personal statements. Career guidance lessons ranging from decision making, resume writing, career clusters to higher education and career options are also organised for Hwa Chong students. Career forums are held to expose students to practitioners in various industries, while alumni career chit chats see personalised instruction from industry professionals. Job attachment opportunities are also offered under the Talent Attachment &amp; Grooming (TAG) Programme. These programmes match students with executives from various corporations and industries under a mentorship programme.
+
+| **Term**  | **Activity**  |
+|:-:|---|
+| 1  | &nbsp; &nbsp; &nbsp; &nbsp; · &nbsp; &nbsp; &nbsp; Talks by Local and Overseas Universities<br>· &nbsp; &nbsp; &nbsp; Individual and Group ECG Counselling<br>· &nbsp; &nbsp; &nbsp; Introductory Higher Education Briefings<br> · &nbsp; &nbsp; &nbsp; Alumni Career Sharing Sessions<br>· &nbsp; &nbsp; &nbsp; Career Forums  |
+| 2  | · &nbsp; &nbsp; Individual and Group ECG Counselling<br>· &nbsp; &nbsp; &nbsp; US and UK University Application Essay Workshops<br>· &nbsp; &nbsp; &nbsp; Non-UK and Non-US Universities Application Briefing<br>· &nbsp; &nbsp; &nbsp; Talent Attachment &amp; Grooming (TAG) Programme<br>· &nbsp; &nbsp; &nbsp; Alumni Career Sharing Sessions<br>· &nbsp; &nbsp; &nbsp; Career Forums<br>· &nbsp; &nbsp; &nbsp; Talks by Local and Overseas Universities<br>· &nbsp; &nbsp; &nbsp; Career Guidance Workshops<br>· &nbsp; &nbsp; &nbsp; Introduction to SkillsFuture Portal  |
+| 3  | · &nbsp; &nbsp; &nbsp; Individual and Group ECG Counselling<br>· &nbsp; &nbsp; &nbsp; UK and US University Application Briefings<br>· &nbsp; &nbsp; &nbsp; Overseas Undergraduate Alumni Forum<br>· &nbsp; &nbsp; &nbsp; Education &amp; Career Guidance Fair&nbsp;<br>· &nbsp; &nbsp; &nbsp; UK and US Application Essays Vetting<br>· &nbsp; &nbsp; &nbsp; Alumni Career Sharing Sessions<br>· &nbsp; &nbsp; &nbsp; Career Forums<br>· &nbsp; &nbsp; &nbsp; Talks by Local and Overseas Universities<br>· &nbsp; &nbsp; &nbsp; Introduction to SkillsFuture Portal  |
+| 4  |  · &nbsp; &nbsp; &nbsp; Individual and Group ECG Counselling<br>· &nbsp; &nbsp; &nbsp; UK and US Application Essay Vetting<br>· &nbsp; &nbsp; &nbsp; Medicine Personal Statement Writing Workshop (Local Unis)<br>· &nbsp; &nbsp; &nbsp; Talks by Local and Overseas Universities<br>· &nbsp; &nbsp; &nbsp; Career Guidance Workshops<br>· &nbsp; &nbsp; &nbsp; Talent Attachment &amp; Grooming (TAG) Programme |
+|   |   |
