@@ -2,13 +2,13 @@ logo: /images/hcilogo.png
 links:
   - title: 关于我们
     collection: about-us
-  - title: THE HC ADVANTAGE
+  - title: 华中的优势
     collection: the-hc-advantage
-  - title: HIGH SCHOOL
+  - title: 中学部
     collection: high-school
-  - title: COLLEGE
+  - title: 高中部
     collection: college
-  - title: SCHOOL PORTALS
+  - title: 学校门户网站
     collection: school-portals
-  - title: CONTACT US
+  - title: 联络我们
     url: /hci-contact-us/
