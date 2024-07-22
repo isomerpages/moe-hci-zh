@@ -1,0 +1,16 @@
+collections:
+  news-n-events:
+    output: true
+    order:
+      - News & Events.md
+      - HCI (College)  DSA JC exercise 2023.md
+      - 20th Hwa Chong Model Asean Summit @ Hwa Chong.md
+      - Class of 2022 Overcomes Formidable Challenges to Demonstrate Holistic
+        Excellence.md
+      - Hwa Chong Educator Conferred Inspiring Teacher of English Award.md
+      - Hwa Chong Educator Named Outstanding Economics Teacher.md
+      - Hwa Chongians Receive CSIT Computing Scholarship 2022.md
+      - Hwa Chong Athletes Achieve Top Title at Colours Award 2022.md
+      - "Huangcheng 2023: An Evening of Drama.md"
+      - Hwa Chong Scouts Honoured with Chief Commissioner's Award.md
+      - Hwa Chong Alumni Excel at SUTD Commencement Ceremonies 2022.md
