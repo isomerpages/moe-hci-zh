@@ -14,7 +14,51 @@ is seeking high achieving individuals who are excited about education to
 join our team. We are looking for individuals with passion, purpose and
 drive. If you thrive on working in an innovative and dynamic environment,
 we would love to hear from you.</p>
-<p></p>
+<p><strong>Position: &nbsp;School Counsellor</strong>
+</p>
+<p><strong>Duties &amp; Responsibilities</strong>
+</p>
+<p>The School Counsellor is responsible for the counselling and guidance
+programme at Hwa Chong Institution. The School Counsellor’s duties include
+but are not limited to the following:</p>
+<p>Job Description:</p>
+<p>1. Counselling Students</p>
+<p>a. provide direct counselling intervention for students in the High School
+Section, and, where needed, in the College Section</p>
+<p>b. be a valuable team member of the HS Well-Being Centre and collaborate
+with other counsellors in designing and implementing a coherent system
+of counselling and well-being approaches</p>
+<p>c. coordinate with the Case Management Team in providing timely support
+for students who need counselling</p>
+<p>d. make home visits for students who are unable to come to school</p>
+<p>2. Working with Staff</p>
+<p>a. provide consultations for staff in managing students with academic,
+behavioural, and emotional issues</p>
+<p>b. provide and source for counselling training &amp; other workshops for
+staff to strengthen their affective skills</p>
+<p>c. collaborate with relevant staff teams to set up upstream prevention
+strategies</p>
+<p>3. Working with Parents</p>
+<p>a. provide consultations for parents in managing students with academic,
+behavioural, and emotional issues</p>
+<p>b. conduct and/or coordinate workshops for parents to align their expectations
+with the school’s and to strengthen their parenting skills</p>
+<p>4. School Duties</p>
+<p>a. provide counselling support in the event of school emergencies as a
+member of the Caring Action in Response to Emergencies (CARE) team</p>
+<p>b. coordinate and collaborate with the Student Development Team in the
+design and implementation of the Peer Support programme</p>
+<p>5. Curriculum Design and Implementation</p>
+<p>a. collaborate with Student Development Team members in the design and
+implementation of a guidance curriculum in the High School Section</p>
+<p>b. work with the Student Development Team in designing and implementing
+programmes to promote students’ social and emotional growth</p>
+<p>6. Any other duty as assigned by the Reporting Officer, Deans, Deputy
+Principal or Principal</p>
+<p>The School Counsellor’s expertise and primary duties are to provide counselling
+services to the school. However, the School Counsellor is also an integral
+member of the Student Development Team, and would be actively involved
+in the programmes pertaining to students’ affective development.</p>
 <p></p>
 <p><strong>Position: &nbsp;Director of Human Resource</strong>
 </p>
