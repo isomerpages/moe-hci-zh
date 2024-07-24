@@ -296,60 +296,6 @@ setting.</p>
 <p>Ability to work collaboratively with diverse stakeholders.</p>
 </li>
 </ol>
-<p>
-<br>
-<br><strong>Position:</strong> &nbsp;<strong>Environmental Control Coordinator cum Estate Management Officer</strong>
-</p>
-<p>As an Environmental Control Coordinator cum Estate Management Officer,
-you will be provided support in the area of Environmental Sanitation Programme
-and Facilities Management, Safety &amp; Security and Logistics</p>
-<p>Key responsibilities:</p>
-<ul data-tight="true" class="tight">
-<li>
-<p>Conducting the regular cleaning Audits on the Outsourced cleaners to ensure
-compliance with cleaning Contract</p>
-</li>
-<li>
-<p>Checks on Cleaning Team Leader Logs and documentation for ES compliance</p>
-</li>
-<li>
-<p>Conduct a monthly sweep with school to highlight other areas cleaned by
-OSOs that school will also need to comply with submitted Environmental
-Sanitation programme</p>
-</li>
-<li>
-<p>Manage estate and facilities&nbsp;</p>
-</li>
-<li>
-<p>Conduct routine checks on facilities cleanliness and safety&nbsp;</p>
-</li>
-<li>
-<p>Repair and replace M&amp;E fittings and equipment&nbsp;</p>
-</li>
-<li>
-<p>Supervise contractors&nbsp;</p>
-</li>
-<li>
-<p>Attend to stakeholders’ requests and/or feedback</p>
-</li>
-<li>
-<p>Provide logistic support to school events &amp; activities</p>
-</li>
-</ul>
-<p>Requirements:</p>
-<ul data-tight="true" class="tight">
-<li>
-<p>A dynamic and motivated individual with Environmental Control Coordinator
-by NEA or diploma in Estate Management and Building Services or related
-qualifications</p>
-</li>
-<li>
-<p>At least 2 years of relevant work experience preferred</p>
-</li>
-<li>
-<p>Experienced candidates without the required qualification may also apply</p>
-</li>
-</ul>
 <p></p>
 <p><strong>Position: Procurement Officer</strong>
 </p>
