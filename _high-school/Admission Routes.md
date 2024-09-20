@@ -245,7 +245,8 @@ Singapore Ministry of Education</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Structured Questions:</p>
-<p>Topics click here</p>
+<p>Topics click <a href="/files/AY2025_Maths_Topics_for_Sec_3_Entrance_Exam.pdf" rel="noopener nofollow" target="_blank">here</a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>The use of electronic calculator is permitted</p>
