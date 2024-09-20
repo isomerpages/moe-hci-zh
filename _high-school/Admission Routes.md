@@ -152,4 +152,132 @@ to honour their commitment to the school for the duration of the 6-year
 Integrated Programme, and participate in the activities related to the
 talent area they are selected for from year 1-4.</p>
 <p>Please direct any queries about DSA to Hwa Chong Institution to <a href="mailto:dsa@hci.edu.sg" rel="noopener noreferrer nofollow" target="_blank">dsa@hci.edu.sg</a>.</p>
+<hr>
+<p><strong>Hwa Chong Institution (High School) Entrance Examination: Admission Year 2025</strong>
+</p>
+<p>Our entrance examination is only open to candidates who are interested
+to be admitted into <strong>Secondary Three</strong> in <strong>Academic Year 2025</strong>.
+There are no vacancies for the other levels in High School.</p>
+<p><strong><u>Eligibility criteria</u></strong>
+</p>
+<p>Candidates must meet either of the two criteria listed below.</p>
+<ol data-tight="true" class="tight">
+<li>
+<p>Students who are currently studying in a <strong>local mainstream secondary school. Please note that students who have been admitted to their current school via DSA-Sec or AEIS exercise are NOT eligible for school transfer. Please note that if you are currently enrolled in an Integrated Programme (IP), transferring out of the programme is strongly discouraged, as it could disrupt the quality of the student’s educational experience.</strong>
+</p>
+</li>
+<li>
+<p><strong>Returning Singaporeans (RS)</strong>. RS may also participate
+in the Ministry of Education’s (MOE) School Placement Exercise for Returning
+Singaporean (SPERS). For more information on SPERS, please refer to MOE
+website at <a href="https://www.moe.gov.sg/returning-singaporeans" rel="noopener nofollow" target="_blank">https://www.moe.gov.sg/returning-singaporeans</a>
+</p>
+</li>
+</ol>
+<p><strong><u>Closing date for application</u></strong>
+</p>
+<p>The closing date for application is <strong>Sunday, 20 October 2024</strong>.
+The examination will be held at the High School Section on <strong>Wednesday, 5 November 2024</strong>.</p>
+<p>Candidates will have to sit for three tests:</p>
+<table style="minWidth: 100px">
+<colgroup>
+<col>
+<col>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Subject Name</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Duration</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Tested on</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Remarks</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>English Language</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>2 hours</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Section A: Essay&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</p>
+<p>Section B: Comprehension</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>NA</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Chinese Language</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>1 hour</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>入学语文能力鉴定测验: 作文</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>The use of dictionary or electronic dictionary that is approved by the
+Singapore Ministry of Education</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mathematics</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>2 hours</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Structured Questions:</p>
+<p>Topics click <a href="/files/AY2025_Maths_Topics_for_Sec_3_Entrance_Exam.pdf" rel="noopener nofollow" target="_blank">here</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>The use of electronic calculator is permitted</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p><strong>Important notes</strong>
+</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Hwa Chong Institution is a Special Assistance Plan school (SAP). All students
+must study English and Higher Chinese at first language level.</p>
+</li>
+<li>
+<p>Hwa Chong Institution (High School) is an All-Boys school.</p>
+</li>
+<li>
+<p>School fee rates are available on our website under <a href="https://www.hci.edu.sg/high-school/financial-info/" rel="noopener nofollow" target="_blank">School Fee Structure</a>.</p>
+</li>
+</ul>
+<p>Applicants must&nbsp;complete and submit an online application by <strong>Sunday, 20 October 2024</strong>.
+Please click <a href="https://form.gov.sg/66b3043fb9ae6bba7d07704c" rel="noopener nofollow" target="_blank">here</a> for
+the e-application. Incomplete and late applications will rendered as void.</p>
+<p>Shortlisted candidate will receive notification on the exam details through
+email by <strong>Thursday, 31 Oct 2024</strong>. Please ensure that the
+email address provided in the application form is correct.</p>
+<p>Shortlisted candidates may be invited for an interview in the last week
+of November 2024.</p>
+<p><strong>All shortlisted candidates will receive notification on the outcome of the application on Friday, 6 December 2024 through email and post.</strong> Details
+of the results will <strong><u>NOT</u></strong> be disclosed. The school’s
+decision on the outcome of the entrance examination is final.</p>
+<p></p>
 <p></p>
