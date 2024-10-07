@@ -14,6 +14,78 @@ is seeking high achieving individuals who are excited about education to
 join our team. We are looking for individuals with passion, purpose and
 drive. If you thrive on working in an innovative and dynamic environment,
 we would love to hear from you.</p>
+<p><strong>Position: &nbsp;Personal Assistant to Principal</strong>
+</p>
+<p>The Personal Assistant (PA) to the Principal provides administrative support
+to mainly the Principal and where needed, Deputy Principals, ensuring effective
+and efficient day-to-day operations of the office. The PA manages the Principal’s
+calendar, schedules, and communications while handling all information
+with discretion and professionalism.</p>
+<p><strong>Job Descriptions:</strong>
+</p>
+<p><strong>General Administration &amp; Secretarial Support</strong>
+</p>
+<p>• Provide high-level administrative and secretarial support.</p>
+<p>• Manage the Principal’s calendar, prioritize meeting requests, and handle
+communications.</p>
+<p>• Draft correspondence as requested and handle confidential information
+with discretion.</p>
+<p>• Liaise with external bodies including Ministry of Education</p>
+<p>• Organize and maintain proper filing in the office.</p>
+<p>• Process expense claims.</p>
+<p>• Manage the office supplies for the Principal’s Office and Board Room.</p>
+<p><strong>Meetings &amp; Functions</strong>
+</p>
+<p>• Ensure that the Principal has relevant files and information prior to
+the engagements</p>
+<p>• Organize all arrangements and documentation necessary for the Principal’s
+travel, conferences, and guest meetings.</p>
+<p>• Oversee arrangements and venue setup for meetings and events.</p>
+<p>• Consolidate, distribute and manage agendas, meeting files and minutes.</p>
+<p>• Take meeting minutes as assigned.</p>
+<p><strong>Projects &amp; Compliance</strong>
+</p>
+<p>• Conduct research, produce documents, briefing papers, reports and create
+presentations.</p>
+<p>• Support the Principal and Deputy Principals in managing projects and
+programs as assigned, including monitoring of the Principal’s tasks and
+deadlines.</p>
+<p>• Update School information with regulatory authorities as required (e.g.
+Ministry of Education, etc.).</p>
+<p>• Initiate and contribute to quality improvement activities in the operation
+of the office of the Principal.</p>
+<p><strong>Teamwork &amp; Communication</strong>
+</p>
+<p>• Work closely and effectively with the Principal and Deputy Principals
+to keep them well informed of upcoming commitments and responsibilities,
+following up appropriately.</p>
+<p>• Liaise effectively with other team members, especially the Deputy Principals,
+Directors and staff. Build strong relationships to support effective management
+and decision-making.</p>
+<p>• Demonstrate a willingness to work constructively, flexibly and proactively</p>
+<p>• Handle sensitive issues with diplomacy and professionalism.</p>
+<p><strong>Other Duties</strong>
+</p>
+<p>• Organize staff events, gifts, and lunches.</p>
+<p>• Any other duties as assigned.</p>
+<p><strong>Requirements:</strong>
+</p>
+<p>• A Bachelor’s Degree in any field.</p>
+<p>• Experience as a Personal Assistant or in a similar administrative role
+is preferred.</p>
+<p>• Excellent organizational and communication skills with strong attention
+to details.</p>
+<p>• Discretion and a high level of professionalism and integrity, especially
+in handling confidential matters.</p>
+<p>• Excellent interpersonal skills necessary to build rapport and collaborate
+effectively with various stakeholders.</p>
+<p>• Able to work independently</p>
+<p>• A team player</p>
+<p>• Open mindset towards learning new skills for application and innovation.</p>
+<p>• Tech-savvy, with proficiency in the use MS Office Suite and other office
+tools.</p>
+<p></p>
+<p></p>
 <p><strong>Position: &nbsp;School Counsellor</strong>
 </p>
 <p><strong>Duties &amp; Responsibilities</strong>
