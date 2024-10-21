@@ -109,7 +109,7 @@ Online application (via ISP) starts on&nbsp;**23 October 2024 to**&nbsp;**25 Oct
 |1|Literature in English|9805|Literature in English|
 |2|Economics|9809|Economics|
 |3|Chemistry|9813|Chemistry|
-|4|Physics|9914|Physics|
+|4|Physics|9814|Physics|
 |5|Biology|9816|Biology|
 |6|Art|9818|Art|
 |7|Mathematics|9820|Mathematics|
