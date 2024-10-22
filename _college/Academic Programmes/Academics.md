@@ -14,7 +14,7 @@ Click&nbsp;[**here**](https://www.seab.gov.sg/home/examinations/gce-a-level/a-le
 
 #### Subjects &amp; Subject Combinations offered in HCI
 
-For Information about <b>Subjects offered in HCI</b>, click [here](/files/College/A_Level_Subjects_info_for_2025_JC1_updated.pdf) <br>
+For Information about <b>Subjects offered in HCI</b>, click [here](/files/College/a_level_subjects_info_for_2025_jc1_updated.pdf) <br>
 
 
 For the proposed list of <b>Subject Combinations for 2024</b>, click [here](/files/College/HCI_College_Standard_Subject_Combinations_for_2025_JC_1_final.pdf)
@@ -57,7 +57,7 @@ Links to the 'indicative grade point' for admission to courses in NUS, NTU and S
 [**Indicative Grade point for SMU**](https://admissions.smu.edu.sg/admissions-requirements/indicative-grade-profile)
 
 #### Special Programmes offered in HCI
-For information about <b>Special Programmes offered in HCI</b>, click [here](/files/College/Special_programme_info_for_2025_JC_1_updated.pdf)<br>
+For information about <b>Special Programmes offered in HCI</b>, click [here](/files/College/special_programme_info_for_2025_jc_1_updated.pdf)<br>
 
  <b> A)&nbsp;&nbsp;&nbsp; MOE Special Programmes</b>
 
