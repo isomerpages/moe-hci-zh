@@ -52,7 +52,7 @@ Students considering an overseas education may use the local university pre-requ
 
 Links to the 'indicative grade point' for admission to courses in NUS, NTU and SMU are provided below. Based on 3H2 and 1H1 with GP and PW set at grade C.
 
- [**Indicative Grade point for NUS**](http://www.nus.edu.sg/oam/gradeprofile/sprogramme-igp.html)  
+ [**Indicative Grade point for NUS**](https://www.nus.edu.sg/oam/admissions/indicative-grade-profile)  
 [**Indicative Grade point for NTU**](https://www.ntu.edu.sg/admissions/undergraduate/indicative-grade-profile)  
 [**Indicative Grade point for SMU**](https://admissions.smu.edu.sg/admissions-requirements/indicative-grade-profile)
 
