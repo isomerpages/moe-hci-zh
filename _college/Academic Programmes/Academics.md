@@ -43,8 +43,8 @@ When choosing subject combination, you should consider the following:
 
 The links below provide a summary of pre-requisites for the various courses / admission requirements at the local universities (NUS, NTU, SMU &amp; SUTD)
 
- [**NUS's Courses Pre-requisites**](http://www.nus.edu.sg/oam/apply-to-nus/A-levels-admissions-req-to-NUS.html) <br>
- [**NTU's Courses Pre-requisites**](http://admissions.ntu.edu.sg/UndergraduateAdmissions/Pages/ALevel.aspx) <br>
+ [**NUS's Courses Pre-requisites**](https://www.nus.edu.sg/oam/admissions/singapore-cambridge-gce-a-level/programme-prerequisites) <br>
+ [**NTU's Courses Pre-requisites**](https://www.ntu.edu.sg/admissions/undergraduate/admission-guide/singapore-cambridge-gce-a-level) <br>
  [**SMU's Courses Pre-requisites**](http://admissions.smu.edu.sg/admissions-requirements/singapore-cambridge-gce-a-level) <br>
  [**SUTD's Admission Requirements**](http://www.sutd.edu.sg/Admissions/Undergraduate/Application/Admissions-Requirements/Singapore-Cambridge-GCE-A-Level)
  
