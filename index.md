@@ -10,8 +10,9 @@ sections:
   - hero:
       background: /images/homepage_banner_v3.gif
       variant: image
-      button: Click here for more info
-      url: /to-all-p6-graduands-congratulations-on-completing-your-primary-school-milestone/
+      dropdown:
+        title: Hero Dropdown Title
+        options: []
   - infobar:
       title: ADMISSION & STUDIES
       description: HIGH SCHOOL
