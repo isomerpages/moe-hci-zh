@@ -9,10 +9,6 @@ sections:
   - hero:
       background: /images/homepage_banner_v3.gif
       variant: image
-      key_highlights:
-        - title: "Scam Alert: Impersonation Phone Calls"
-          description: Click here for more info.
-          url: https://hci.edu.sg/scam-advisory/
   - infobar:
       title: ADMISSION & STUDIES
       description: HIGH SCHOOL
