@@ -41,12 +41,6 @@ At Hwa Chong, we also aim to develop students with a global perspective, imbued 
 
 One key area that has gained prominence is the adoption of fieldwork in the study of Geography. Local field studies and overseas field trips are conducted each year in connection with topics covered during the course.&nbsp; These are efforts made to address the requirements of the theme on Geographical Investigation.&nbsp; All students will embark on detailed studies of both physical and human phenomena such as flooding and activities involving transnational corporations.&nbsp;
 
-The syllabus for H1 and H2 Geography can be found below:
-
-[H1 Geography&nbsp;syllabus](http://www.hci.edu.sg/uploadfile/admission/8813_2018.pdf)
-
-[H2 Geography&nbsp;syllabus](http://www.hci.edu.sg/uploadfile/admission/9751_2018.pdf)
-
 ---
 #### **History**
 
