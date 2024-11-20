@@ -50,7 +50,7 @@ For more information on&nbsp;**JAE Appeal Exercise**, please click&nbsp;[here](h
 
 All&nbsp;**Returning Singaporeans**&nbsp;(RS) children who wish to apply to Hwa Chong Institution (HCI) for a place in the&nbsp;**JC 1**&nbsp;can take part through Direct School Admission (DSA-JC) or participate in the School Placement Exercise for Returning Singaporeans (SPERS- JC/MI) conducted by Ministry of Education.
 
-Interested candidates are advised to visit the following MOE RS website for the details of the SPERS-JC/MI exercise:&nbsp;[https://www.moe.gov.sg/returning-singaporeans/post-secondary/spers](**https://www.moe.gov.sg/returning-singaporeans/post-secondary/spers**)
+Interested candidates are advised to visit the following MOE RS website for the details of the SPERS-JC/MI exercise:&nbsp;(**https://www.moe.gov.sg/returning-singaporeans**)
  
 Applicants who are&nbsp;<u>eligible</u>&nbsp;to apply to HCI can approach the school for admission. Applicants are required to submit the following documents for the school's consideration.
 
