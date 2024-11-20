@@ -268,9 +268,7 @@ must study English and Higher Chinese at first language level.</p>
 <p>School fee rates are available on our website under <a href="https://www.hci.edu.sg/high-school/financial-info/" rel="noopener nofollow" target="_blank">School Fee Structure</a>.</p>
 </li>
 </ul>
-<p>Applicants must&nbsp;complete and submit an online application by <strong>Sunday, 20 October 2024</strong>.
-Please click <a href="https://form.gov.sg/66b3043fb9ae6bba7d07704c" rel="noopener nofollow" target="_blank">here</a> for
-the e-application. Incomplete and late applications will rendered as void.</p>
+<p>Applicants must&nbsp;complete and submit an online application by <strong>Sunday, 20 October 2024</strong>.</p>
 <p>Shortlisted candidate will receive notification on the exam details through
 email by <strong>Thursday, 31 Oct 2024</strong>. Please ensure that the
 email address provided in the application form is correct.</p>
