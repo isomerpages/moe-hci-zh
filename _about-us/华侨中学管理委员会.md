@@ -71,30 +71,29 @@ variant: markdown
         <img style="width: 100%;" src="/images/About%20Us/BOG/bog_member1.jpg">
       </td>
       <td style="width: 22%; margin-right: 15px;">
-        <img style="width: 100%;" src="/images/About%20Us/BOG/bog_member2.jpg">
+        <img style="width: 100%;" src="/images/About%20Us/BOG/bog_member9.jpg">
       </td>
       <td style="width: 22%; margin-right: 15px;">
-        <img style="width: 100%;" src="/images/About%20Us/BOG/bog_member3.jpg">
+        <img style="width: 95%;" src="/images/About%20Us/BOG/bog_cmc.jpg">
       </td>
       <td style="width: 22%; margin-right: 15px;">
-        <img style="width: 100%;" src="/images/About%20Us/BOG/bog_member4.jpg">
+        <img style="width: 100%;" src="/images/About%20Us/BOG/bog_member5.jpg">
       </td>
     </tr>
     <tr>
       <td align="center"><strong>Mr Ang Kiam Meng<br>黄建铭先生<br>Member<br>委员</strong></td>
-      <td align="center"><strong>Mr Appa Durai Shunmugam<br>Member<br>委员</strong></td>
-      <td align="center"><strong>Mr Jimmy Ng Leng Kim<br>黄龙金先生<br>Member<br>委员</strong></td>
-      <td align="center"><strong>Dr Loh Boon Kwang<br>罗文光医生<br>Member<br>委员</strong></td>
+      <td align="center"><strong>Mr Eugene Aw Jia Ming<br>胡家洺先生<br>Member<br>委员</strong></td>
+      <td align="center"><strong>Mr Chia Min Chong<br>谢明聪先生<br>Member<br>委员</strong></td>
+       <td align="center"><strong>Mr Kwok Wei Woon, Joseph<br>郭伟文先生<br>Member<br>委员</strong></td>
     </tr>
   </tbody>
 </table>
-
 
 <table style="table-layout: fixed; width: 100%;">
   <tbody>
     <tr>
       <td style="width: 22%; margin-right: 15px;">
-        <img style="width: 100%;" src="/images/About%20Us/BOG/bog_member5.jpg">
+        <img style="width: 100%;" src="/images/About%20Us/BOG/bog_member4.jpg">
       </td>
       <td style="width: 22%; margin-right: 15px;">
         <img style="width: 100%;" src="/images/About%20Us/BOG/bog_member6.jpg">
@@ -107,7 +106,7 @@ variant: markdown
       </td>
     </tr>
     <tr>
-      <td align="center"><strong>Mr Kwok Wei Woon, Joseph<br>郭伟文先生<br>Member<br>委员</strong></td>
+      <td align="center"><strong>Dr Loh Boon Kwang<br>罗文光医生<br>Member<br>委员</strong></td>
       <td align="center"><strong>Mr Ng Wei Fang<br>黄卫防先生<br>Member<br>委员</strong></td>
       <td align="center"><strong>Mr Ng Yeau Chong<br>黄耀宗先生<br>Member<br>委员</strong></td>
       <td align="center"><strong>Dr Phua Ghee Chee<br>潘宜志医生<br>Member<br>委员</strong></td>
@@ -116,23 +115,27 @@ variant: markdown
 </table>
 
 
-<table style="table-layout: fixed; width: 75%;">
+<table style="table-layout: fixed; width: 100%;">
   <tbody>
     <tr>
-      <td style="width: 22%; margin-left: 40px;">
-        <img style="width: 100%;" src="/images/About%20Us/BOG/bog_member9.jpg">
+      <td style="width: 22%; margin-right: 15px;">
+        <img style="width: 100%;" src="/images/About%20Us/BOG/bog_member2.jpg">
       </td>
-      <td style="width: 22%; margin-left: 50px;">
+      <td style="width: 22%; margin-right: 15px;">
         <img style="width: 100%;" src="/images/About%20Us/BOG/bog_member10.jpg">
       </td>
-      <td style="width: 22%; margin-left: 60px;">
+      <td style="width: 22%; margin-right: 15px;">
         <img style="width: 100%;" src="/images/About%20Us/BOG/bog_member11.jpg">
+      </td>
+      <td style="width: 22%; margin-right: 15px;">
+        <img style="width: 100%;" src="/images/About%20Us/Our%20People/peoplev2_00.png">
       </td>
     </tr>
     <tr>
-      <td align="center"><strong>Mr Eugene Aw Jia Ming<br>胡家洺先生<br>Member<br>委员</strong></td>
+      <td align="center"><strong>Mr Appa Durai Shunmugam<br>Member<br>委员</strong></td>
       <td align="center"><strong>Ms Evelyn Tan Yuan Yuan<br>陈圆圆女士<br>Member<br>委员</strong></td>
       <td align="center"><strong>Mr Tay Boon Hwee Ronald<br>郑文辉先生<br>Member<br>委员</strong></td>
+      <td align="center"><strong><br><br><br></strong></td>
     </tr>
   </tbody>
 </table>
