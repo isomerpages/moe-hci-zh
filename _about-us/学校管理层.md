@@ -5,147 +5,85 @@ description: ""
 variant: markdown
 ---
 ##### Our People
-<table style="table-layout: fixed; width: 100%;">
-  <tbody>
-    <tr>
-      <td style="width: 22%; text-align: center;">
-        <img style="width: 33%;" src="/images/About%20Us/Our%20People/peoplev2_1.png">
-        <br>
-        <strong>Mr Lee Peck Ping <br>李白彬<br> Principal<br>校长</strong>
-      </td>
-    </tr>
-  </tbody>
+
+<table>
+  <tbody><tr>
+    <th><img style="width: 100%;" src="/images/About%20Us/Our%20People/peoplev2_00.png"></th>
+    <th><img style="width: 100%;" src="/images/About%20Us/Our%20People/peoplev2_1.png">
+			<strong></strong><center><strong>Mr Lee Peck Ping <br>李白彬<br> Principal <br>校长 </strong></center></th>
+    <th><img style="width: 100%;" src="/images/About%20Us/Our%20People/peoplev2_00.png"></th>
+		</tr>
+  <tr>
+    <td></td>
+		<td></td>
+		
+
+
+</tr></tbody>
 </table>
 
-<table style="table-layout: fixed; width: 100%;">
-  <tbody>
-    <tr>
-      <td style="width: 22%; margin-right: 15px;">
-        <img style="width: 100%;" src="/images/About%20Us/Our%20People/peoplev2_2.png">
-        <br>
-        <strong>Mr Chan Kwok Leong<br>陈国良<br> Deputy Principal / Studies (College)<br> 副校长<br></strong>
-      </td>
-      <td style="width: 22%; margin-right: 15px;">
-        <img style="width: 100%;" src="/images/About%20Us/Our%20People/peoplev2_3.png">
-        <br>
-        <strong>Mrs Chin-Leow Bee Kuan <br>廖美娟<br>Deputy Principal / High School<br> 副校长 </strong>
-      </td>
-      <td style="width: 22%; margin-right: 15px;">
-        <img style="width: 100%;" src="/images/About%20Us/Our%20People/peoplev2_4.png">
-        <br>
-        <strong>Dr Melvyn Lim <br> 林丰成<br>Deputy Principal <br> / Student Development <br>(College)<br> 副校长 </strong>
-      </td>
-    </tr>
-  </tbody>
+
+
+
+<table>
+	</table><table style="table-layout: fixed; width: 170%;">
+  <tbody><tr>
+    <th><img style="width: 100%;" src="/images/About%20Us/Our%20People/208ckl.png"></th>
+    <th><img style="width: 100%;" src="/images/About%20Us/Our%20People/208grace.png"></th>
+    <th><img style="width: 100%;" src="/images/About%20Us/Our%20People/208cheryl.png"></th>
+		<th><img style="width: 100%;" src="/images/About%20Us/Our%20People/208ml.png"></th>
+		<th><img style="width: 100%;" src="/images/About%20Us/Our%20People/deborah.png"></th>
+  </tr>
+  <tr>
+    <td><strong>Mr Chan Kwok Leong<br>陈国良<br> Deputy Principal (High School)<br>副校长 </strong>
+</td>
+		<td><strong>Ms Grace Ho Ping Ping<br>何冰冰<br>Deputy Principal (High School)<br>副校长 </strong></td>
+		<td> <strong>Ms Lim Miau Teng Cheryl <br> 林妙婷<br>Deputy Principal (Admin)<br>副校长</strong></td>
+		<td><strong>Dr Melvyn Lim <br>林丰成<br> Deputy Principal (College) <br>副校长</strong></td>
+		<td><strong>Ms How Lai Yin Deborah <br>侯丽燕<br> Deputy Principal (College)<br>副校长</strong></td>
+		</tr>
+</tbody>
 </table>
 
-<table style="table-layout: fixed; width: 100%;">
-  <tbody>
-    <tr>
-      <td style="width: 22%; margin-right: 15px;">
-        <img style="width: 100%;" src="/images/About%20Us/Our%20People/peoplev2_5.png">
-        <br>
-        <strong>Ms Grace Ho Ping Ping <br>何冰冰<br> Deputy Principal / High School<br>副校长 </strong>
-      </td>
-      <td style="width: 22%; margin-right: 15px;">
-        <img style="width: 100%;" src="/images/About%20Us/Our%20People/peoplev2_6.png">
-        <br>
-        <strong>Ms Lim Miau Teng Cheryl <br> 林妙婷<br>Deputy Principal / Admin<br>副校长</strong>
-      </td>
-      <td style="width: 22%; margin-right: 15px;">
-        <img style="width: 100%;" src="/images/About%20Us/Our%20People/peoplev2_00.png">
-        <br>
-        <strong> <br><br> <br></strong>
-      </td>
-    </tr>
-  </tbody>
+<table>
+	</table><table style="table-layout: fixed; width: 170%;">
+  <tbody><tr>
+    <th><img style="width: 100%;" src="/images/About%20Us/Our%20People/208hup.png"></th>
+    <th><img style="width: 100%;" src="/images/About%20Us/Our%20People/208twe.png"></th>
+    <th><img style="width: 100%;" src="/images/About%20Us/Our%20People/208clarinda.png"></th>
+		<th><img style="width: 100%;" src="/images/About%20Us/Our%20People/208joseph.png"></th>
+		<th><img style="width: 100%;" src="/images/About%20Us/Our%20People/208whm.png"></th>
+  </tr>
+  <tr>
+    <td><strong>Dr Chia Hui Peng <br>谢慧萍<br> Dean Studies &amp; Research<br>处长</strong>
+</td>
+		<td><strong>Ms Thian Wan Eng <br> 程婉莹<br>School Staff Developer<br>教职员培训</strong></td>
+		<td> <strong>Ms Clarinda Choh <br> 邹淑君<br>Director Engagement &amp; Partnerships<br>科长</strong>
+</td>
+		<td><strong>Mr Tan Yeow Heng Joseph <br>陈耀兴<br> Director School Safety &amp; Boarding School<br>科长</strong></td>
+		<td><strong>Miss Wong Hwee Ming <br>黄晖敏<br> Director Well-Being (College)<br>科长</strong></td>
+		</tr>
+</tbody>
 </table>
 
-<table style="table-layout: fixed; width: 100%;">
-  <tbody>
-    <tr>
-			<td style="width: 22%; margin-right: 15px;">
-        <img style="width: 100%;" src="/images/About%20Us/Our%20People/peoplev2_7.png">
-        <br>
-        <strong>Dr Chia Hui Peng <br>谢慧萍<br> Dean / Studies &amp; Research<br>处长</strong>
-      </td>
-      <td style="width: 22%; margin-right: 15px;">
-        <img style="width: 100%;" src="/images/About%20Us/Our%20People/peoplev2_8.png">
-        <br>
-        <strong>Dr Chung Wen Chee <br>曾文驰<br> Dean / Organisational Development &amp; Strategic Programmes<br>处长</strong>
-      </td>
-      <td style="width: 22%; margin-right: 15px;">
-        <img style="width: 100%;" src="/images/About%20Us/Our%20People/peoplev2_9.png">
-        <br>
-        <strong>Mr Tan Pheng Tiong <br>陈鹏仲<br> Dean / Special Projects <br>处长</strong>
-      </td>
-      </tr>
-  </tbody>
-</table>
+<table>
+	</table><table style="table-layout: fixed; width: 170%;">
+  <tbody><tr>
+    <th><img style="width: 100%;" src="/images/About%20Us/Our%20People/208ccw.png"></th>
+    <th><img style="width: 100%;" src="/images/About%20Us/Our%20People/208charles.png"></th>
+    <th><img style="width: 100%;" src="/images/About%20Us/Our%20People/208lla.png"></th>
+		<th><img style="width: 100%;" src="/images/About%20Us/Our%20People/208jean.png"></th>
+		<th><img style="width: 100%;" src="/images/About%20Us/Our%20People/208elisa.png"></th>
+  </tr>
+  <tr>
+    <td><strong>Dr Chow Chiu Wai <br>周钊纬<br>Director  Education Technology<br>科长</strong>
 
-<table style="table-layout: fixed; width: 100%;">
-  <tbody>
-    <tr>
-			 <td style="width: 22%; margin-right: 15px;">
-        <img style="width: 100%;" src="/images/About%20Us/Our%20People/peoplev2_10.png">
-        <br>
-        <strong>Dr Chow Chiu Wai <br>周钊纬<br>Director / Education Technology<br>科长</strong>
-      </td>
-      <td style="width: 22%; margin-right: 15px;">
-        <img style="width: 100%;" src="/images/About%20Us/Our%20People/peoplev2_11.png">
-        <br>
-        <strong>Ms Clarinda Choh <br> 邹淑君<br>Director / Strategic Engagement &amp; Communications<br>科长</strong>
-      </td>
-      <td style="width: 22%; margin-right: 15px;">
-        <img style="width: 100%;" src="/images/About%20Us/Our%20People/peoplev2_12.png">
-        <br>
-        <strong>Mrs Foo-Lam Woon Keat <br>蓝文洁<br> Director / Studies (College)<br>科长</strong>
-      </td>
-      
-    
-  </tr></tbody>
-</table>
-
-<table style="table-layout: fixed; width: 100%;">
-  <tbody>
-    <tr>
-			<td style="width: 22%; margin-right: 15px;">
-        <img style="width: 100%;" src="/images/About%20Us/Our%20People/peoplev2_13.png">
-        <br>
-        <strong>Mrs How Lai Yin Deborah <br>侯丽燕<br> Director / Professional Development<br>科长</strong>
-      </td>
-      <td style="width: 22%; margin-right: 15px;">
-        <img style="width: 100%;" src="/images/About%20Us/Our%20People/peoplev2_19.png">
-        <br>
-        <strong>Miss Wong Hwee Ming <br>黄晖敏<br> Director / Well-Being<br>科长</strong>
-      </td>
-      <td style="width: 22%; margin-right: 15px;">
-        <img style="width: 100%;" src="/images/About%20Us/Our%20People/peoplev2_15.png">
-        <br>
-        <strong>Mr Low Boon Ann Charles <br>刘文安<br> Director / Well-Being (High School)<br>科长</strong>
-      </td>
-
- 
-  </tr></tbody>
-</table>
-
-<table style="table-layout: fixed; width: 100%;">
-  <tbody>
-    <tr>
-			      <td style="width: 22%; margin-right: 15px;">
-        <img style="width: 100%;" src="/images/About%20Us/Our%20People/peoplev2_16.png">
-        <br>
-        <strong>Mr Tan Yeow Heng Joseph <br>陈耀兴<br> Director / Hwa Chong Institution Boarding School<br>科长</strong>
-      </td>
-			    <td style="width: 22%; margin-right: 15px;">
-        <img style="width: 100%;" src="/images/About%20Us/Our%20People/peoplev2_18.png">
-        <br>
-        <strong>Dr Tan Chye Liang Joseph  <br>陈财良<br> Director / Sustainability&nbsp;&amp; Campus Infrastructure<br>科长</strong>
-      </td>			
-			    <td style="width: 22%; margin-right: 15px;">
-        <img style="width: 100%;" src="/images/About%20Us/Our%20People/peoplev2_00.png">
-        <br>
-        <strong> <br> </strong>
-      </td>	
-          </tr></tbody>
+</td>
+		<td><strong>Mr Charles Low <br>刘文安<br> Director Well-Being (High School)<br>科长</strong></td>
+		<td> <strong>Ms Lee Li Ann <br>李莉安<br>Director Finance <br>科长</strong></td>
+		<td><strong>Ms Jean Tan Lay Eng<br>陈丽英<br>Director Human Resource <br>科长</strong></td>
+		<td><strong>Ms Elisabeth Oh <br>李莉安<br>Director <br>Organisational<br> Excellence <br>科长</strong>
+</td>
+		</tr>
+</tbody>
 </table>
