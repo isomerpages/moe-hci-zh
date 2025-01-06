@@ -2,7 +2,7 @@
 layout: contact_us
 title: Contact Us
 permalink: /contact-us/
-agency_name: Hwa Chong Institution
+agency_name: 华侨中学
 locations:
   - address:
       - Hwa Chong Institution
