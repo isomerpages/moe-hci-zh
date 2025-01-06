@@ -2,7 +2,7 @@ collections:
   high-school:
     output: true
     order:
-      - Assessment and Promotion Criteria.md
+      - 评估与升级标准.md
       - Academic Programmes.md
       - Admission Routes.md
       - Financial Information.md
