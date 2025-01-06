@@ -11,12 +11,12 @@ sections:
       variant: image
   - infobar:
       title: ADMISSION & STUDIES
-      description: HIGH SCHOOL
+      description: 中学部
       button: LEARN MORE
       url: /high-school/academic-prog/
   - infobar:
       title: ADMISSION & STUDIES
-      description: COLLEGE
+      description: 高中部
       button: LEARN MORE
       url: /college/academic-programmes/academics/
   - resources:
