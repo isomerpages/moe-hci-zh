@@ -1,5 +1,5 @@
-title: Hwa Chong Institution
-url: ""
+title: 华侨中学
+url: https://zh.hci.edu.sg
 favicon: /images/favicon-isomer.ico
 colors:
   primary-color: "#6e1919"
@@ -53,3 +53,7 @@ staging: https://staging-lite.d119oopokglkjz.amplifyapp.com
 prod: https://master.d2q8432nk8pcao.amplifyapp.com
 facebook-pixel: ""
 resources_name: news
+shareicon: /images/isomer-logo.svg
+is_government: false
+google_analytics_ga4: ""
+linkedin-insights: ""
