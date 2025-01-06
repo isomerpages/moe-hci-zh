@@ -1,8 +1,8 @@
 ---
 layout: homepage
-title: Hwa Chong Institution
+title: 华侨中学
 description: An Isomer site of the Singapore Government
-image: /images/hcilogo.png
+image: /images/isomer-logo.svg
 permalink: /
 notification: ""
 sections:
