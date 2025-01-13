@@ -5,16 +5,17 @@ variant: markdown
 description: ""
 third_nav_title: Academic Programmes
 ---
-# General Information
+# 一般资讯
 
-#### Information from SEAB
-The Revised JC curriculum was implemented in 2006. <br>Click&nbsp;[**here**](https://www.moe.gov.sg/post-secondary/a-level-curriculum-and-subject-syllabuses)&nbsp;to find out more about the revised A-Level curriculum framework (H1, H2 &amp; H3) and subject requirements.
+#### 新加坡考试与评鉴局（SEAB）发布的资讯
+修订后的初级学院课程于2006年推出。
+请点击这里以了解更多关于修订版“A水准”课程框架（H1、H2、H3）及科目要求。
+请点击这里查看不同科目的课程大纲。Click&nbsp;[**here**](https://www.moe.gov.sg/post-secondary/a-level-curriculum-and-subject-syllabuses)&nbsp;
 
-Click&nbsp;[**here**](https://www.seab.gov.sg/home/examinations/gce-a-level/a-level-syllabuses-examined-for-school-candidates-2024)&nbsp;to find out the syllabus for different subjects.
 
-#### Subjects &amp; Subject Combinations offered in HCI
+#### 华中提供的科目与科目组合
 
-For Information about <b>Subjects offered in HCI</b>, click [here](/files/College/a_level_subjects_info_for_2025_jc1_updated.pdf) <br>
+查询华中所提供的科目详情，请点击这里。Click [here](https://zh.hci.edu.sg/files/College/a_level_subjects_info_for_2025_jc1_updated.pdf) <br>
 
 
 For the proposed list of <b>Subject Combinations for 2024</b>, click [here](/files/College/HCI_College_Standard_Subject_Combinations_for_2025_JC_1_final.pdf)
