@@ -18,7 +18,7 @@ third_nav_title: Academic Programmes
 查询华中所提供的科目详情，请点击这里。Click [here](https://zh.hci.edu.sg/files/College/a_level_subjects_info_for_2025_jc1_updated.pdf) <br>
 
 
-For the proposed list of <b>Subject Combinations for 2024</b>, click [here](/files/College/HCI_College_Standard_Subject_Combinations_for_2025_JC_1_final.pdf)
+For the proposed list of <b>Subject Combinations for 2024</b>, click [here](https://zh.hci.edu.sg/files/College/HCI_College_Standard_Subject_Combinations_for_2025_JC_1_final.pdf)
 
 Please note that the list of subject combinations above is subjected to change. The list is NOT indicative of subject combinations that would be offered.
 
