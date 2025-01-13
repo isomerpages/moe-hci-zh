@@ -3,7 +3,7 @@ collections:
     output: true
     order:
       - Academic Programmes/.keep
-      - Academic Programmes/Academics.md
+      - Academic Programmes/学术.md
       - Academic Programmes/Subjects.md
       - Academic Programmes/Higher 3 (H3) Programmes.md
       - Academic Programmes/Special Programmes.md
