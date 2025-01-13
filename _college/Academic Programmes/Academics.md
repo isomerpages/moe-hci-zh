@@ -96,8 +96,8 @@ For&nbsp;**enquiries with regard to specific subjects**, please email:
 | -------- | -------- | -------- |
 |General Paper / English Literature|Mrs Chan-Lim Yin Shin|[limys@hci.edu.sg](mailto:limys@hci.edu.sg)|
 |Project Work|Mdm Tan Keng Hwee|[tankh@hci.edu.sg](mailto:tankh@hci.edu.sg)|
-|Chinese (CL, CLL, CSC, TRC)|Mr Hong Wee Seng Jeffrey|[hongws@hci.edu.sg](mailto:hongws@hci.edu.sg)|
-|Mathematics|Mr Ng Say Tiong|[ngst@hci.edu.sg](mailto:ngst@hci.edu.sg)|
+|Chinese (CL, CLL, CSC, TRC)|Mr Yeong Chan Kong|[yeongck@hci.edu.sg](mailto:yeongck@hci.edu.sg)|
+|Mathematics|Mrs Chua-Huang Huifen|[huanghf@hci.edu.sg](mailto:huanghf@hci.edu.sg)|
 |Economics|Ms Lee Qing Fen Cheryl|[leeqf@hci.edu.sg](mailto:deborah@hci.edu.sg)|
 |Biology|Mr Tang Koon Loon|[tangkl@hci.edu.sg](mailto:foowk@hci.edu.sg)|
 |Chemistry|Mrs Cheng-Liau Ming Lee|[liauml@hci.edu.sg](mailto:benjaminchan@hci.edu.sg)|
