@@ -2,12 +2,12 @@ collections:
   college:
     output: true
     order:
-      - Academic Programmes/.keep
-      - Academic Programmes/学术.md
-      - Academic Programmes/Subjects.md
-      - Academic Programmes/Higher 3 (H3) Programmes.md
-      - Academic Programmes/Special Programmes.md
-      - Academic Programmes/Assessments & Grading.md
+      - 学术/.keep
+      - 学术/学术.md
+      - 学术/Subjects.md
+      - 学术/Higher 3 (H3) Programmes.md
+      - 学术/Special Programmes.md
+      - 学术/Assessments & Grading.md
       - Admission Paths.md
       - Financial Information.md
       - 课程辅助活动.md
