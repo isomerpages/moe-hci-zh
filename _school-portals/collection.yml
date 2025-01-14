@@ -3,7 +3,7 @@ collections:
     output: true
     order:
       - Student/.keep
-      - Student/General Sites.md
+      - Student/常用网站.md
       - Student/High School.md
       - Student/College.md
       - Staff.md
