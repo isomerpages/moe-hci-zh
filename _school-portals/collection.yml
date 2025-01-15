@@ -7,6 +7,6 @@ collections:
       - 学生/High School.md
       - 学生/高中部.md
       - 教职员工.md
-      - Parents/.keep
-      - Parents/High School.md
-      - Parents/College.md
+      - 家长/.keep
+      - 家长/High School.md
+      - 家长/College.md
