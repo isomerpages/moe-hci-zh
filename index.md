@@ -10,17 +10,17 @@ sections:
       background: /images/homepage_banner_v3.gif
       variant: image
   - infobar:
-      title: ADMISSION & STUDIES
+      title: 课程设置
       description: 中学部
-      button: LEARN MORE
+      button: 了解更多
       url: /high-school/academic-prog/
   - infobar:
-      title: ADMISSION & STUDIES
+      title: 课程设置
       description: 高中部
-      button: LEARN MORE
+      button: 了解更多
       url: /college/academic-programmes/academics/
   - resources:
-      title: News & Announcements
+      title: 最新信息
       id: resources
-      button: Find Out More
+      button: 查看更多
 ---
