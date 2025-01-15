@@ -5,81 +5,81 @@ variant: markdown
 description: ""
 third_nav_title: 学术
 ---
-# Subjects Offered
+# 高中部提供的学术科目
 
 
-#### **Economics** 
-The Economics Unit in Hwa Chong comprises a team of dynamic professionals dedicated to the teaching of Economics as a life subject. Economics is not just a collection of facts but a unified approach to thinking about the world. The theory of Economics is an apparatus of the mind or a technique of thinking which helps us make rational decisions. With these requirements in mind, the Economics Unit provides a rigorous course to equip students with the skills necessary for economics awareness and competence. This course imparts both intellectual as well as citizenship training through a well-planned syllabus to promote understanding of the very processes and issues that affect their lives as citizens and students. In addition, Economics Exco was set up to expose students to a range of enriching experiences such as participation in nation-wide competitions, publication of newsletters and trips to overseas to EU and Universities for Summer Programmes. The greatest reward of this course is a better understanding of how the world works.
 
----
-#### **Geography**
-<q>Geography is the study of Earth’s landscapes, peoples, places and environments... <b>
-bridging the social sciences with the natural sciences... and puts [the]  understanding of social and physical processes within the context of places and regions... <b>[Geography]</b> helps us all to be more socially and environmentally sensitive, informed and responsible citizens...  </b></q><b><br>
-	
-<b>Royal Geographical Society (with the Institute of British Geographers)</b>
-
-The approach to Geography teaching and learning in Hwa Chong has evolved through the years due to the changing demands of the syllabus and the growing interest amongst the students in the subject. As Geography is an applied discipline, practicing geographers should be able to make direct contributions to society. Being highly dynamic, the subject constantly seeks to heighten our awareness of the world. It introduces the processes operative in physical and human geography and draws links to how these are relevant to the current social, economic, political and environmental situation.&nbsp; Hence, with these attributes in mind, the syllabus seeks to encourage students to:
-
-1\. be inspired by the splendour of natural environments and human ingenuity;  
-2\. care for delicate ecosystems and understand the importance of environmentally sustainable lifestyles;  
-3\. develop as global citizens, seek harmony and respect others in a culturally diverse world;  
-4\. contribute responsibly towards the building of a robust and inclusive society; and  
-5\. have the integrity to uphold ethical principles and be resilient in their pursuit for a better world.
-
-These aims are achieved through the study of the main Themes in the H2 Geography syllabus:  
-Theme 1 : Tropical Environments  
-Theme 2 : Development, economy and the Environment  
-Theme 3 : Sustainable Development  
-Theme 4 : Geographical Investigation
-
-At Hwa Chong, we also aim to develop students with a global perspective, imbued with the spirit of inquiry and empathy which would enable them to respond to on-going changes. Tutors actively integrate critical thinking and problem-solving skills into content learning. They facilitate experiential learning to promote creativity and make Geography come alive. IT is also employed to enhance learning.&nbsp; These emphases are in line with the&nbsp;**Desired Outcomes of Education (DOE)**. Upon completion of their formal education, Geography students should emerge as a/an:
-
-1.&nbsp;**confident person**&nbsp;who has a strong sense of right and wrong, is adaptable and resilient, knows himself/herself, is discerning in judgement, thinks independently and critically, and communicates effectively;  
-2.&nbsp;**self-directed learner**&nbsp;who questions, reflects, perseveres and takes responsibility for his/her own learning;  
-3.&nbsp;**active contributor**&nbsp;who is able to work effectively in teams, is innovative, exercises initiative, takes calculated risks and strives for excellence; and  
-4.&nbsp;**concerned citizen**&nbsp;who is rooted to Singapore, has a strong sense of civic responsibility, is informed about Singapore and the world, and takes an active part in bettering the lives of others around him/her.
-
-One key area that has gained prominence is the adoption of fieldwork in the study of Geography. Local field studies and overseas field trips are conducted each year in connection with topics covered during the course.&nbsp; These are efforts made to address the requirements of the theme on Geographical Investigation.&nbsp; All students will embark on detailed studies of both physical and human phenomena such as flooding and activities involving transnational corporations.&nbsp;
+#### **经济** 
+在华中，负责教导经济的是一支充满活力的专业团队，他们致力于将之作为一门生活科目来进行教学。经济不仅是对社会现实的认识，更是对世界运作的思考，以便掌握做出理性决定的思维训练。基于这些需求，我们提供严格的课程培养学生相关的知识和能力。通过精心设计的教学大纲，结合学术和公民教育，帮助学生理解影响其生活的社会动态和议题。此外，我们成立学科执委会，借着参加全国性比赛、出版会讯、以及出国考察或参与大学暑期项目，为学生提供丰富的学习体验。修读经济的最大收获是让人更深入地了解世界的运作方式。
 
 ---
-#### **History**
+#### **地理**
+地理是对地球、人类、地方和环境的研究，是连接社会科学与自然科学的桥梁，通过理解社会与自然在不同区域的作用，培养我们对社会和环境的敏感度、知识水平和责任感。
+                                                                  英国皇家地理学会（与英国地理学家学会合作）
 
-In an era where national boundaries are fast disappearing in an increasingly globalised world, the need to understand the world around us has become more imperative. Towards this end, one key objective of the History Unit is to foster a keen interest among students in past and current affairs and understanding them with critical depth. Besides nurturing a passion for the subject, the Unit is also committed to developing critical thinking and analytical skills in our students. Students are encouraged to read widely and do independent research.
+华中的地理教学法随着课程需求和学生兴趣的变化而不断演变。作为一门应用学科，相关领域从业者应该能为社会做出直接贡献。此科目实用性大，致力于提升人们对世界的认知，不仅了解自然地理与人文地理，还紧密联系当前的社会、经济、政治及环境状况。
 
-Under the Hwa Chong Integrated Humanities Framework, Years 1-2 constitute the Exploration phase where students offer both History and Geography. Upon Entering the Development Phase in Years 3-4, students may further develop their passion by offering History either as one of the Integrated Humanities Electives or HP History under the Humanities Programme @ High School. During the Consolidation phase of Years 5-6, students are expected to be independent learners within and outside the classroom. They are exposed to the rigours of the GCE 'A' Level curriculum which demands more in-depth and considered written responses.
+基于此，地理旨在让学生：<br>
+1.	被壮丽的大自然与人类智慧所启发；<br>
+2.	关爱生态系统，理解可持续生活方式的重要性；<br>
+3.	发展全球公民意识，尊重多元文化；<br>
+4.	以责任感促进社会包容；<br>
+5.	恪守道德准则，培养韧性与诚信。<br>
 
-In order to pursue our objectives, the Unit provides a myriad of opportunities for our students. Lectures are building blocks for knowledge acquisition while tutorials provide the platform for them to consolidate their knowledge and discuss issues. Students are also given opportunities to hone their examination techniques through term assignments, essay tests and examinations.
+H2地理课程涵盖四大主题：<br>
+1.	热带环境<br>
+2.	发展、经济与环境<br>
+3.	可持续发展<br>
+4.	地理探究<br>
 
-Of course, the subject is not just about tomes and the dreaded examinations. A wide spectrum of co-curricular activities is available to students to pursue their passion in the subject. These include the annual model UN Conferences and various competitions organised by local varsities such as the NUS Arts Quiz and NTU Current Affairs Quiz. Attending seminars on various topics of interest also help students stay in touch with the subject in the real world context. Volunteer opportunities in local museums are also open to our students.
+华中的地理学科致力于培养具全球视野、探究精神和同理心的人，以应对瞬息万变的世界。老师在教学中融入批判性思维，推行体验式学习，激发创造力，使学习变得更生动有趣，并利用科技提升效果。这与教育部倡导的理想学习成果相呼应，完成学业后的学生应成为：
 
-In recent years, the Unit has taken students on overseas field trips to places of historical interest and significance. In 2005, students caught a glimpse of life after the fall of the Berlin Wall and end of the Cold War in a trip to Germany and Czech Republic. Last year, students visited the Cold War behemoth, the ex-Soviet Union in a whirlwind tour which took them to Moscow and St. Petersburg. More recently, History students visited the United States on an Integrated Humanities trip and caught a glimpse of what makes the world's remaining superpower tick. This year, we made our way to Vietnam and were marvelled at the strides this communist country has made since the introduction of reforms in the late 1980s and the resilience that Vietnamese people displayed during the Vietnam War.
+1.	自信的人：明辨是非，有强大的适应力和韧性，了解自我，有敏锐的判断力， 能
+          独立思考，善于沟通。
+2.	自主学习者：善于提问、反思，坚持不懈，对自己的学习负责。
+3.	积极贡献者：善于团队合作，具创新精神，积极主动，勇于承担风险，追求卓越。
+4.	关心社会的公民：心系本土，具强烈的公民责任感，了解新加坡及世界，并积极
+                参与改善他人的生活。
 
-So, what are you waiting for? Get in here for an exciting journey through time and space.
+实地考察对这个科目来说日益重要，我们会根据课程需要每年安排本地与海外的实地考察。所有学生将深入研究自然和人文现象，如洪水的危害及跨国企业活动等。
 
 ---
-#### **English Language/General Paper**
+#### **历史**
 
-The goal of the English Language Programme at HCI is to develop independent thinkers who can see the connection between language study and its application to life. A holistic educational approach ensures that students are given the freedom to intellectually grasp these relationships and apply them to authentic tasks.
+在全球化日益加深、国界逐渐模糊的时代，了解局势变化显得尤为重要。学历史便是为了激发学生对历史与时事的兴趣，深入理解问题。除了培养对历史的热爱，我们也致力于发展学生的批判性思维和分析能力，鼓励广泛阅读，并进行独立研究。
 
-Adopting a multi-pronged approach, the Hwa Chong H1 General Paper curriculum comprises a broad variety of stimulating modules designed to develop all-round individuals.&nbsp; A theme-based reading and writing programme is offered at the College level, and the topics covered include the mass media, environment, science and technology, culture and tradition, politics and government, conflicts and violence, and citizenship in Singapore.
+在华中综合人文学科框架下，中一、中二为探索阶段，学生将同时学习历史与地理。到中三、中四的深化阶段，他们可选择历史作为其中一个科目，或进入中学部开设的人文特选课程选修高级历史，进一步深化学习。在高一、高二的巩固阶段，学生将成为课堂内外的独立学习者，并接受严谨的‘A’水准会考训练，以便更深入地分析和陈述观点。
 
-Knowledge &amp; Inquiry (KI) is a multi-disciplinary H2 A-Level subject that explores the different fields of knowledge and applies various modes of inquiry to a range of issues and ideas.&nbsp; The subject aims to develop students' ability to critically evaluate arguments and engage in independent research.&nbsp; Students can offer KI as a contrasting subject.&nbsp; As the 4th H2 subject, KI will be offered by students who are academically able to cope with 4 H2 subjects on top of other H1 subjects.&nbsp; KI is also taken in lieu of General Paper.&nbsp; In Hwa Chong, we are looking for bright students who are linguistically competent and have an inquiring mind.&nbsp; KI students are expected to read widely and they must be highly proficient in written English as well as independent learners.
+为实现此目标，我们为学生提供多元化学习机会。讲堂课奠定知识基础，辅导课提供巩固知识和讨论问题的平台。此外，学期作业、测验和考试也让学生有机会提升应试技巧。
 
-Literature in English aims to develop in students an informed appreciation of literature and a love of reading. Students who read the subject would be equipped with literary skills to understand the nature and methods of literary study and analysis. The Literature in English programme in HCI, entails a rigorous study of the three main literary genres (Poetry, Prose, Drama), in-depth analysis of award-winning literary writers and their works, and an annual enrichment component.
+当然，学习不仅限于书本与考试，我们也为学生策划一系列丰富的活动，激发学习热忱，其中包括年度模拟联合国大会，以及由国大和南大主办的问答比赛。学生还可通过参加专题研讨会，将所学与现实紧密结合，或到本地博物馆去做义工，拓展视野。
+近年来，我们陆续组织了具有历史意义的海外考察之旅。2005年，学生前往德国和捷克，了解柏林围墙倒塌、冷战结束后的各种变迁。去年，学生则远赴莫斯科与圣彼得堡，深入了解前苏联解体的始末。今年，他们走访越南，亲睹这个社会主义国家自20世纪80年代末改革以来的迅猛发展，及越南人民在越战中所展现的顽强精神。
 
-H2 English Language and Linguistics (ELL) exposes students to a range of linguistic concepts and methods appropriate for the analysis and study of the English language, so as to understand the contexts in which the language operates, think about the issues and debates that surround its usage, and respond critically to them. Through the study of the English language, students will develop their competence as users of English. The H2 English Language and Linguistics (ELL) programme at HCI is seminar-styled, and focuses on mastering fundamental linguistic concepts before moving on to using these concepts to explore language issues related to wider societal concerns. Independent reading and essay writing are characteristic of the subject.
+你还在等什么？加入我们，踏上一段穿越时空的精彩旅程吧！
 
 ---
-#### **Project Work**
+#### **英文/英文理解与写作**
 
-PW is a learning experience which aims to provide students with the opportunity to synthesise knowledge from various areas of learning, and critically and creatively apply it to real life situations. This process, which enhances students' knowledge and enables them to acquire skills like collaboration, communication and independent learning, prepares them for lifelong learning and the challenges ahead.
+华中英文部门致力于培养学生的独立思考能力，帮助他们将语言学习与生活实际相结合。通过系统的教育模式，学生能自由探索、理解并将所学应用于真实情境。
 
-In summary, PW teaches students about:
+H1英文理解与写作采用多元教学，涵盖丰富且引人深思的课题，全面提升学生的综合素养。在高中部，我们提供主题式阅读与写作课程，包括大众传媒、环境、科技、文化传统、政治治理、冲突暴力及新加坡公民意识等内容。
+知识与探究是一门跨学科的H2科目，探讨不同知识领域，并运用多种探究方式分析各类议题与观点。这一科旨在培养学生批判性评估不同观点及独立研究的能力。学生可将之当作对比科目来报考。作为第四门H2科目，知识与探索适合学术能力较强、能应付四门H2及其他H1科目的学生。
 
-*   thinking
-*   research
-*   problem-solving
-*   public presentation
+在华中，我们欢迎语言能力强、思维敏锐的学生修读知识与探索，他们需广泛阅读，并具备出色的英语写作能力和自主学习能力。
+
+华中的英文文学课程旨在培养学生对文学的深入鉴赏能力与阅读爱好，他们将掌握文学研究与分析的方法和技巧，通过学习三大文学体裁（诗歌、散文、戏剧），深入剖析获奖作家及其作品。此外，学生也有机会参与不同的常年拓展活动。
+
+H2英语语言学让学生接触多种语言学概念与分析方法，进而有效理解英语在不同语境中的运用，探讨相关议题与争议，并进行批判性思考。通过课程学习，学生将提升语言运用能力。我们采用研讨会形式让学生先具备基础语言学概念，再运用在更广泛的社会语言问题上。英语语言学强调独立阅读与写作，侧重培养学生自主学习与批判能力。
+
+---
+#### **专题作业**
+
+专题作业旨在让学生将各领域的知识融会贯通，再批判性、创造性地应用于真实情境。这个过程不仅拓展他们的知识面，还培养了协作、沟通与自主学习等技能，为终身学习及未来挑战做好准备。
+简而言之，这个科目注重培养学生的：<br>
+•	思维能力<br>
+•	研究能力<br>
+•	问题解决能力<br>
+•	公开演讲能力<br>
 
 ---
 #### **Chinese Language**
@@ -91,75 +91,66 @@ In summary, PW teaches students about:
 高中母语部就以此为目的，开设了语文特选课程、双文化课程、H2/H3华文与文学、H2中国通识、H1理解与写作与H1华文等以中文为媒介语的特别课程与学科。其中，我们的语文特选课程和双文化课程的目标就是为我国培养精通双语而且学贯中西的人才，进一步巩固与加强我国作为东西方文化枢纽的地位，并奠定国家长远的发展基础。
 
 ---
-#### **Art**
+#### **美术**
 
-At Hwa Chong, the philosophy of art education is to encourage students to develop their creative identity. The Art Elective Programme (AEP) is offered to selected students demonstrating a talent for the Visual Arts and prepares them in art appreciation, theory of art (Theory) and in practice (Studio) over the span of two years.&nbsp; The course develops students not only for practical aspects of art production but also a theoretical and critical understanding of the context of its making. AEP Students will take H2 Art and H3 Art.
-
----
-#### **Humanities Programme**
-
-As the first institution chosen by the Ministry of Education for the Humanities Scholarship Programme Hwa Chong has established and maintained its position as a leading centre for successful applications to top universities around the world.
-
-Since the Programme’s inception in 1981 more than 300 alumni have graduated from Oxford and Cambridge alone, and in recent years an impressive record of admissions has been built up with the Ivy League institutions of the USA as well.
-
-Undoubtedly, the source of this success lies with the Programme’s tutors who are not only unrivalled in their specialist subject skills but also in the university placement and scholarship advice that they have to offer.
+华中的美术教育理念是鼓励学生发展个人的创意潜能。美术特选课程专为具有视觉艺术天赋的学生设计，涵盖美术鉴赏、美术理论（理论部分）与实践创作（工作室部分），为期两年。这个特别课程不仅注重美术创作的实践能力培养，还强调对美术理论的批判性理解。美术特选课程学生将修读H2美术及H3美术。
 
 ---
-#### **Mathematics**
+#### **人文课程**
 
-The Hwa Chong Mathematics Department sees the subject as an excellent means for the development of an individual's intellectual ability in logical reasoning, spatial visualisation, and abstract thought. It is our belief that a strong foundation in Mathematics is crucial to the development of not only a highly skilled but scientifically- and technologically- competent workforce that can meet the challenges of the 21st century. From Years 1 to 4, we focus on developing students’ critical and creative skills and their ability to communicate and reason mathematically, through the use of an inquiry based approach with ICT infusion. We also foster a conducive environment that provides students with opportunities to use Mathematics in solving real-world problems and doing in-depth research in projects. In moving learning beyond the classroom, we hope to instill in students the spirit of continual and inquiry learning and an appreciation of the beauty and value of mathematics.
-
----
-#### **Science**
-
-The Hwa Chong Integrated Programme for Science is implemented across 6 years.&nbsp; Our integrated framework provides a dynamic learning environment for students with an aptitude and interest in Mathematics and Science.&nbsp; Special emphasis is placed on the mastery of fundamental knowledge and experimental skills.&nbsp; Our plan is to further integrate the Mathematics and Science disciplines to foster an appreciation of how they work together and form a whole.
-
-In a tripartite collaboration with A\*STAR and NTU, Hwa Chong also offers research electives based on the H3 module to encourage new and independent modes of learning and exploration.&nbsp; Each JC student is matched with a mentor depending on interest, and engages in collaborative research with leading scientists and researchers working on real-world scientific problems.
-
-The aim of our Science programme is to broaden students' interests in Science by providing a stimulating environment that will enrich their basic Science training.&nbsp; Besides exposure to major advances in the life sciences and new technologies, students will be trained to think critically and independently.
+作为首个获教育部选定开办人文课程的学府，我们的优秀毕业生在全球顶尖大学的入学率方面遥遥领先。
+自1981年课程创办以来，仅牛津与剑桥的毕业校友人数已逾400，近年来更在美国常春藤大学的录取人数上屡创佳绩。
+这一成就归功于导师的卓越贡献，他们不仅知识渊博，在大学申请及奖学金咨询方面亦经验老到，能为学生提供全力支持。
 
 ---
-#### **Computing / Infocomm Studies**
+#### **数学**
 
-H2 Computing is designed with a focus on the disciplinarity of the subject that largely evolves around problem solving and computational thinking. It serves to provide a foundation for further study in computing-related disciplines and fields involving computer technologies and applications.
-
-As a subject in the curriculum, H2 Computing also creates opportunities for students to develop 21st Century competencies through the way students learn. These include focusing on computational thinking, project management skills, and an understanding of the ethical issues associated with the use of information communications technology.
-
-Computing students are expected to participate in computing seminars and learning journeys as part of and an extension of their learning. These aim to provide students with the latest and exciting developments in the Information communications industry and computing fields, and seek to expand students’ learning and imagination about the possibilities in Computing.
+华中数学部视数学为培养学生逻辑推理、空间想象和抽象思维能力的有效方法。我们相信扎实的数学基础不仅对个人的成长至关重要，也能培养具有科学头脑与技术竞争力的高素质人才，而这正是应对21世纪挑战的关键。
+从中一至中四，我们借助探究式学习结合信息通信技术，培养学生的批判性与创造性思维，以及数学表达与推理能力。同时，营造良好的学习氛围让学生有机会运用数学解决实际问题，并深入开展专题研究。通过课堂内外的延伸学习，我们希望激发学生常保探究精神，以领略数学之美，感悟其价值。
 
 ---
-#### **Physical Education**
+#### **科学**
 
-**Introduction**
+华中的数理综合课程贯穿六年，为对数学与科学充满兴趣和潜力的学生提供充满活力的学习环境。课程特别强调基础知识的掌握和实验技能的培养，同时通过整合数学与科学，帮助学生理解两者如何协同作用，共同构建完整的知识体系。
 
-The PE &amp; CCA Department aims to empower our young adults for the challenges ahead by providing a holistic education that encompasses health, social and mental wellbeing, engagement in lifelong learning, aesthetic appreciation, civic-mindedness and leadership development through its programs.
+华中还与新加坡科技研究局和南洋理工大学合作，开设H3研究选修课程，鼓励学生以全新独立的方式探讨学习。凡选修者将根据研究兴趣获得导师的指点，或与顶尖科学家和研究人员合作，共同研究现实的科学问题。
 
-**Our programs serve to:**
-
-1\. Enhance students' learning process and performance; <br>
-2\. Inculcate good values to our students through Character, Moral and Citizenship Education.<br>
-3\. Inspire the students to reach their full potential during the National School Games, Singapore Youth Festival Arts Presentation and Celebrations, as well as other Co-Curricular Activities and competitions.<br>
-4\. Promote healthy lifestyle and physical activity among students via the Sports For All Program.<br>
-5\. Promote Arts appreciation among students via the Arts For All Program.<br>
-6\. Inculcate the Olympic values of Friendship, Respect, and Excellence in all students.<br>
-
-**Programs**
-
-a) PE Programs
-
-Students will be furnished with the knowledge and skills in fitness management, sports and games, and health management. These are achieved via activities like dance, badminton, basketball, floorball, golf, handball, netball, soccer, softball, squash, swimming, table tennis, tennis, ultimate frisbee, volleyball, and outdoor education etc. Students will be able to apply the skills they learnt when participating in various intra-school sports events.
-
-b) Leadership and enrichment courses
-
-The CCA committee will plan and organise various CCA leaders training program and enrichment courses&nbsp; to equip our students with relevant skills to be effective and resilient leaders.
-
-c) Intra school tournaments
-
-The PE &amp; CCA Department seeks to provide all students with the opportunity to compete and excel in sports. Events such as Track and Field Meet, Sports Education Program, and the Festival of Sports (FOS) are held annually to meet the objectives of promoting healthy lifestyle activities and enhancing our&nbsp; Hwa Chong family spirit.
+这个课程旨在通过激发性的学习环境，拓宽学生的兴趣，丰富基础科学训练。除了接触生命科学和科技的最新发展外，学生也将接受批判性与独立思考能力的培养，为未来的科研与创新奠定基础。
 
 ---
-#### **Literature in English**
+#### **计算机学/信息通信学**
 
-With our seamless 6-year Integrated Programme, the Literature course in Hwa Chong covers 3 major phases: the Sec 1 &amp; 2 Exploration phase; Sec 3 &amp; 4 Development phase, and the JC1 &amp; 2 Consolidation phase.&nbsp; In each phase, students are exposed to a wide variety of texts, genre exposition, and diverse methodologies.
+H2计算机学以问题解决和计算思维为核心，高度注重其专业性，为学生将来深造计算机相关领域及计算机技术应用做好铺垫。
 
-Adopting a differentiated approach to learning that goes beyond the classroom, the course provides students with opportunities to experience Literature through activities like symposiums, debates, mock conferences, field studies, project work, independent study and drama.&nbsp; Such activities not only expand students' horizons, but also help them look at issues from a broader perspective, apply knowledge, and contest the arbitrary divisions that separate subjects.</b>
+这个科目还通过多元化的学习方式，培养学生的21世纪核心技能，包括计算思维、项目管理能力，以及对信息通信技术使用所涉及的伦理问题的理解。
+
+计算机学的学生需参加科目相关的研讨会和学习之旅，作为课堂学习的延伸。这些活动让他们接触信息通信行业和计算机领域的最新发展，加强对计算机学未来发展的思考与想象。
+
+---
+#### **体育**
+
+体育与课程辅助活动部门旨在通过全方位教育，涵盖健康、社交、心理卫生、终身学习、审美欣赏、公民意识及领导力的培养，帮助年轻人迎接未来挑战。
+
+我们的课程目标包括：<br>
+1.	提升学生的学习过程与表现；<br>
+2.	通过品格、道德与公民教育，培育良好品德；<br>
+3.	激励学生在全国校际运动会、新加坡青年节表演，及各类课程辅助活动和竞赛中发挥潜能；<br>
+4.	通过“全校运动”计划，推广健康生活方式与体育活动；<br>
+5.	通过“全校艺术”计划，提升学生的艺术鉴赏力；<br>
+6.	在学生群体中弘扬奥林匹克精神，培养友谊、尊重与卓越的价值观。<br>
+
+课程/项目：<br>
+a) 体育课程<br>
+通过舞蹈、羽毛球、篮球、地板球、高尔夫球、手球、英式篮求、足球、垒球、壁球、游泳、乒乓球、网球、极限飞盘、排球及户外教育等活动，让学生学习健身管理、有关运动项目与游戏的知识，他们也可在校内各类体育赛事中运用到所学的技能。
+
+b) 领导力与拓展课程<br>
+课程辅助活动委员会负责策划并组织各类领袖培训及拓展课程，帮助学生掌握相关技能，成为高效且具韧性的领导者。
+
+c) 校内竞赛<br>
+为了让全体学生有竞技与发展的机会，体育与课程辅助活动部门每年都会举办田径运动会、体育项目及体育嘉年华等活动，除了推广健康生活方式，也加强华中大家庭精神。
+
+---
+#### **英文文学**
+
+华中无缝衔接的六年综合课程，将文学学习分为三个主要阶段：中一至中二的探索阶段、中三至中四的发展阶段，以及高一至高二的巩固阶段。每个阶段都为学生提供广泛的文本阅读、体裁解析及多元化的学习方法。
+这个科目采用差异化教学模式，且超越课堂界限，让学生通过研讨会、辩论、模拟会议、实地考察、专题作业、独立研究及戏剧等活动，深入体验文学。这些活动不仅拓宽学生的视野，还帮助他们从更广泛的角度审视问题，灵活运用知识，打破学科间的界限。
