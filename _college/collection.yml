@@ -4,7 +4,7 @@ collections:
     order:
       - 学术/.keep
       - 学术/学术.md
-      - 学术/Subjects.md
+      - 学术/学术科目.md
       - 学术/Higher 3 (H3) Programmes.md
       - 学术/Special Programmes.md
       - 学术/评估与评分.md
