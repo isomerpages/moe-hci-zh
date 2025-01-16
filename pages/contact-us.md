@@ -37,6 +37,6 @@ contacts:
       - phone: +65 6468 3955
       - email: 电邮：admin@hci.edu.sg
       - other: 传真：+65 6769 5857
-    title: General Enquiries & Feedback
+    title: 联络我们
 feedback: ""
 ---
