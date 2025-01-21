@@ -19,8 +19,4 @@ sections:
       description: 高中部
       button: 了解更多
       url: /college/academic-programmes/academics/
-  - resources:
-      title: 最新信息
-      id: resources
-      button: 查看更多
 ---
