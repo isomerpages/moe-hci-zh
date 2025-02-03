@@ -3,7 +3,7 @@ collections:
     output: true
     order:
       - 评估与升级标准.md
-      - Academic Programmes.md
-      - Admission Routes.md
-      - Financial Information.md
+      - 课程设置.md
+      - 直接入学计划（DSA）.md
+      - 学费标准.md
       - 课程辅助活动.md

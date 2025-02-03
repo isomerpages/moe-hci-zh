@@ -1,6 +1,5 @@
-contact_us: /contact-us/
-show_reach: true
-faq: /faq/
+contact_us: https://zh.hci.edu.sg/hci-contact-us/
+show_reach: false
 social_media:
   facebook: https://www.facebook.com/HwaChong.Official/
   instagram: https://www.instagram.com/hwachong.official/

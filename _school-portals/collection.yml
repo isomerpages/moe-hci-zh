@@ -2,11 +2,11 @@ collections:
   school-portals:
     output: true
     order:
-      - Student/.keep
-      - Student/General Sites.md
-      - Student/High School.md
-      - Student/College.md
-      - Staff.md
-      - Parents/.keep
-      - Parents/High School.md
-      - Parents/College.md
+      - 学生/.keep
+      - 学生/常用网站.md
+      - 学生/中学部.md
+      - 学生/高中部.md
+      - 教职员工.md
+      - 家长/.keep
+      - 家长/中学部.md
+      - 家长/高中部.md

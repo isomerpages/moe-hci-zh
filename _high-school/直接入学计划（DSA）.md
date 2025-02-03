@@ -1,5 +1,5 @@
 ---
-title: Admission Routes
+title: 直接入学计划（DSA）
 permalink: /high-school/admission-route/
 description: ""
 variant: tiptap
