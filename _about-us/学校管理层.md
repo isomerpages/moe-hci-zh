@@ -28,7 +28,7 @@ variant: markdown
       <img style="width: 100%;" src="/images/About%20Us/Our%20People/Melvyn_Lim.jpg"><strong>Dr Melvyn Lim <br>林丰成<br> Deputy Principal (College) <br>副校长</strong>
    </div>
    <div class="col">
-      <img style="width: 100%;" src="/images/About%20Us/Our%20People/Deborah_How.jpg"><strong>Ms How Lai Yin Deborah <br>侯丽燕<br> Deputy Principal (College)<br>副校长</strong>
+      <img style="width: 100%;" src="/images/About%20Us/Our%20People/Deborah_How_u.png"><strong>Ms How Lai Yin Deborah <br>侯丽燕<br> Deputy Principal (College)<br>副校长</strong>
    </div>
 </div>
 
