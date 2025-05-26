@@ -1,6 +1,6 @@
 title: 华侨中学
 url: https://zh.hci.edu.sg
-favicon: /images/favicon-isomer.ico
+favicon: /images/Favicon/favicon.ico
 colors:
   primary-color: "#6e1919"
   secondary-color: "#6e1919"
@@ -53,7 +53,7 @@ staging: https://staging-lite.d119oopokglkjz.amplifyapp.com
 prod: https://master.d2q8432nk8pcao.amplifyapp.com
 facebook-pixel: ""
 resources_name: news
-shareicon: /images/isomer-logo.svg
+shareicon: /images/hcilogo.png
 is_government: false
 google_analytics_ga4: ""
 linkedin-insights: ""
