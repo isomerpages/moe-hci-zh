@@ -54,8 +54,9 @@ to ensure that every student has the opportunity to thrive.</p>
 The application is free-of-charge and will be open from <strong><u>7 May 2025, 11 am</u></strong> to <strong><u>3 June 2025, 3 pm</u></strong>.&nbsp;</p>
 <p>For more details, please refer to MOE website – <a href="http://www.moe.gov.sg/dsa-sec" rel="noopener noreferrer nofollow" target="_blank"><u>www.moe.gov.sg/dsa-sec</u></a>.&nbsp;</p>
 <hr>
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/DSA_2025_Timeline__5_.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/DSA_2025.png">
 </div>
 <h4><strong>Sports DSA Trial Schedule</strong></h4>
 <p><strong>Weekday </strong>Trial Timings: 4:00pm to 7:00pm</p>
