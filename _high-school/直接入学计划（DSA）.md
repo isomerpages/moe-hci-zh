@@ -142,8 +142,8 @@ drop off point)</p>
 <p><strong>Basketball - </strong>(Level 3)</p>
 <p></p>
 <p><strong>Shooting - </strong>(Level 1)</p>
-<p>- Air Pistol (8:30pm to 10:30pm)</p>
-<p>- Air Rifle (10:30pm to 12:30pm)</p>
+<p>- Air Pistol (8:30am to 10:30am)</p>
+<p>- Air Rifle (10:30am to 12:30pm)</p>
 </td>
 <td rowspan="7" colspan="1">
 <p><strong>Badminton </strong>(Kah Kee Hall)&nbsp;</p>
