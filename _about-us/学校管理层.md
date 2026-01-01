@@ -25,7 +25,7 @@ variant: markdown
       <img style="width: 100%;" src="/images/About%20Us/Our%20People/Cheryl_Lim.jpg"><strong>Ms Lim Miau Teng Cheryl <br> 林妙婷<br>Deputy Principal (Admin)<br>副校长</strong>
    </div>
    <div class="col">
-      <img style="width: 100%;" src="/images/About%20Us/Our%20People/Melvyn_Lim.jpg"><strong>Dr Melvyn Lim <br>林丰成<br> Deputy Principal (College) <br>副校长</strong>
+      <img style="width: 100%;" src="/images/About%20Us/Our%20People/ngst.png"><strong>Mr Ng Say Tiong <br>黄世忠<br> Deputy Principal (College) <br>副校长</strong>
    </div>
    <div class="col">
       <img style="width: 100%;" src="/images/About%20Us/Our%20People/Deborah_How_u.png"><strong>Ms How Lai Yin Deborah <br>侯丽燕<br> Deputy Principal (College)<br>副校长</strong>
